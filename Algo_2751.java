@@ -26,7 +26,7 @@ public class Algo_2751 {
 					min = j;
 				}
 			}
-			swap(arr,min,i);
+			//swap(arr,min,i);
 		}
 	
 		
